@@ -1,0 +1,28 @@
+name: sirsmithsonian
+favicon: null
+layout_spectrum: 0.48696480272337794
+typography_spectrum: 0.2749658089596778
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.5416098560672253
+  lightness: 0.6504874830134213
+  saturation: 0.4118372246157378
+  rhythmicContrast: 0.6371481420937926
+purpose: []
